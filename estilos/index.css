@@ -1,0 +1,4755 @@
+
+
+
+
+/*--------------------------------------------------------*/
+/*----------------au-------------------------------------*/
+/*---------------------------------------------------------*/
+
+/*------------------mobil--------------------------------------*/
+
+@media (min-width: 300px)
+{
+   #au
+   {
+       width: 150px;
+       height: 16px;
+background-color: violet;
+   }
+   
+   
+   
+   
+}
+
+
+
+/*------------------mobil--------------------------------------*/
+
+@media (min-width: 420px)
+{
+    #au
+   {
+       width: 210px;
+       height: 18px;
+background-color: violet;
+   }
+   
+   
+   
+}
+
+
+
+
+
+
+/*------------------mobil--------------------------------------*/
+
+@media (min-width: 580px)
+{
+    #au
+   {
+       width: 240px;
+       height: 20px;
+background-color: violet;
+   }
+   
+   
+   
+}
+
+
+
+/*------------------tablet-------------------------------------*/
+
+@media (min-width: 880px)
+{
+   
+    #au
+    {
+        width: 440px;
+        height: 25px;
+ background-color: violet;
+    }
+   
+   
+   
+}
+
+
+/*-----------------pc--------------------------------------*/
+
+@media (min-width: 1200px)
+{
+    #au
+   {
+       width: 600px;
+       height: 30px;
+       background-color: violet;
+
+   }
+   
+   
+   
+}
+
+
+
+
+/*--------------fin--body-------------------------------------*/
+/*---------------------------------------------------------*/
+/*---------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------- seccion 1------------------------------------------------*/
+
+
+
+/*--------------------------------------------------------*/
+/*----------------body-------------------------------------*/
+/*---------------------------------------------------------*/
+
+/*------------------mobil-------------sec1-------------------------*/
+
+@media (min-width: 300px)
+{
+   
+   body
+   {
+      background-color: rgb(242, 241, 246);
+      color: rgb(193, 12, 248);
+      text-align: center;
+      font-size: 20px;
+   }
+   
+   
+   
+}
+
+
+
+/*------------------mobil------------sec1--------------------------*/
+
+@media (min-width: 420px)
+{
+   
+   body
+   {
+      background-color: rgb(240, 239, 235);
+      color: cornflowerblue;
+   }
+   
+   
+   
+}
+
+
+
+
+
+
+/*------------------mobil------sec1--------------------------------*/
+
+@media (min-width: 580px)
+{
+   
+   body
+   {
+      background-color: rgb(233, 236, 240);
+      color: cornflowerblue;
+   }
+   
+   
+   
+}
+
+
+
+/*------------------tablet-------sec1------------------------------*/
+
+@media (min-width: 880px)
+{
+   
+   body
+   {
+      background-color: rgb(240, 243, 239);
+      color: cornflowerblue;
+   }
+   
+   
+   
+}
+
+
+/*-----------------pc--------sec1------------------------------*/
+
+@media (min-width: 1200px)
+{
+   
+   body
+   {
+      background-color: rgb(247, 236, 238);
+      color: cornflowerblue;
+   }
+   
+   
+   
+}
+
+
+
+
+/*--------------fin--body-------------------------------------*/
+/*---------------------------------------------------------*/
+/*---------------------------------------------------------*/
+
+
+
+
+
+/*--------------- seccion 2------------------------------------------------*/
+
+
+
+
+/*----------------------------------------------------------*/
+/*-------------------primer div >>>>--  vav25  -------------*/
+/*------------sec2----------------------------------------------*/
+
+
+
+
+/*----------------------mobil-----300px---sec2----------------------------*/
+
+
+@media (min-width: 300px)
+{
+#vav25
+{
+height: 40px;
+width: 99%;
+*background-color: rgb(250, 152, 229);
+*border: 1px solid rgb(0, 25, 139);
+font-size: 20px;
+color: cyan;
+text-align: center;
+}
+}
+
+
+
+
+
+
+
+/*----------------------mobil-----400px-------------------------------*/
+
+@media (min-width: 420px)
+{
+#vav25
+{
+height: 60px;
+width: 99%;
+*background-color: rgb(248, 38, 196);
+*border: 3px solid darkblue;
+
+
+}
+}
+/*--------------------------------------------------------------*/
+
+
+
+/*----------------------mobil----tablet 550--------------------------------*/
+
+@media (min-width: 580px)
+{
+   
+    #vav25
+    {
+    height: 80px;
+    width: 99%;
+    *background-color: rgb(247, 14, 34);
+    *border: 3px solid darkblue;
+    
+    
+    
+    
+    
+    }
+   
+   
+}
+
+
+/*-------------------tablet---------------------------------------*/
+
+
+@media (min-width: 880px)
+{
+   
+    #vav25
+    {
+    height: 90px;
+    width: 99%;
+    *background-color: cornsilk;
+   *border: 3px solid darkblue;
+    
+    
+    
+    
+    
+    }
+   
+   
+}
+
+
+/*------------------pc--------sec2--------------------------------*/
+
+
+@media (min-width: 1200px)
+{
+   
+    #vav25
+    {
+    height: 100px;
+    width: 99%;
+    *background-color: rgb(185, 56, 207);
+    *border: 3px solid darkblue;
+    
+    
+    
+    
+    
+    
+    }
+   
+   
+}
+
+
+
+
+
+/*-------------------fin---------------------------------------*/
+/*--------fin-----------primer div >>>>--  vav25  -------------*/
+/*----------------------------------------------------------*/
+
+
+
+
+/*----------------------mobil-----300px---sec2----------------------------*/
+
+
+@media (min-width: 300px)
+{
+#vav26
+{
+height: 20px;
+width: 99%;
+*background-color: rgb(81, 126, 248);
+*border: 1px solid rgb(191, 31, 223);
+font-size: 20px;
+color: cyan;
+text-align: center;
+}
+}
+
+
+
+
+
+
+
+/*----------------------mobil-----400px-------------------------------*/
+
+@media (min-width: 420px)
+{
+#vav26
+{
+height: 30px;
+width: 99%;
+*background-color: rgb(248, 38, 196);
+*border: 3px solid darkblue;
+
+
+}
+}
+/*--------------------------------------------------------------*/
+
+
+
+/*----------------------mobil----tablet 550--------------------------------*/
+
+@media (min-width: 580px)
+{
+   
+    #vav26
+    {
+    height: 50px;
+    width: 99%;
+    *background-color: rgb(245, 21, 245);
+    *border: 3px solid darkblue;
+    
+    
+    
+    
+    
+    }
+   
+   
+}
+
+
+/*-------------------tablet---------------------------------------*/
+
+
+@media (min-width: 880px)
+{
+   
+    #vav26
+    {
+    height: 60px;
+    width: 99%;
+    *background-color: cornsilk;
+    *border: 3px solid darkblue;
+    
+    
+    
+    
+    
+    }
+   
+   
+}
+
+
+/*------------------pc--------sec2--------------------------------*/
+
+
+@media (min-width: 1200px)
+{
+   
+    #vav26
+    {
+    height: 70px;
+    width: 99%;
+    *background-color: rgb(185, 56, 207);
+    *border: 3px solid darkblue;
+    
+    
+    
+    
+    
+    
+    }
+   
+   
+}
+
+
+
+/*-------
+
+
+
+
+
+
+
+/*-------------secion 3---------------------------------------------------*/
+/*--------------------div imagen uno  ind20-----------------------------------*/
+/*----------------------------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*--------------------------------------------------------*/
+/*----------------ind20 div imagen prncipal----------------------*/
+/*---------------------------------------------------------*/
+
+
+
+/*------------------mobil---sec3-----------------------------------*/
+
+@media (min-width: 300px)
+{
+   
+   #ind20
+   {
+       width: 99%;
+       height: 690px;
+       position: absolute;
+       top: 50px;
+       left: 1px;
+       border:3px solid rgb(243, 228, 20);
+       
+       
+   }
+   
+   
+   
+}
+
+
+
+/*------------------mobil------sec3--------------------------------*/
+
+@media (min-width: 420px)
+{
+   #ind20
+   {
+       width: 99%;
+       height: 690px;
+       position: absolute;
+       top: 80px;
+       left: 1px;
+       border:3px solid rgb(20, 23, 220);
+       
+       
+   }
+   
+   
+   
+}
+
+
+
+
+
+
+/*------------------mobil---------sec3-----------------------------*/
+
+@media (min-width: 580px)
+{
+   
+   #ind20
+   {
+       width: 99%;
+       height: 670px;
+       position: absolute;
+       top: 100px;
+       left: 1px;
+       border:3px solid rgb(20, 23, 220);
+       
+       
+   }
+   
+   
+}
+
+
+
+/*------------------tablet-------------sec3------------------------*/
+
+@media (min-width: 880px)
+{
+   
+   #ind20
+   {
+       width: 99%;
+       height: 670px;
+       position: absolute;
+       top: 110px;
+       left: 1px;
+       border:3px solid rgb(20, 23, 220);
+       
+       
+   }
+   
+   
+   
+}
+
+
+/*-----------------pc---------------sec3-----------------------*/
+
+@media (min-width: 1200px)
+{
+   #ind20
+   {
+       width: 99%;
+       height: 660px;
+       position: absolute;
+       top: 120px;
+       left: 1px;
+       border:3px solid rgb(20, 23, 220);
+       
+       
+   }
+   
+   
+   
+}
+
+/*--------------fin--sec3-------------------------------------*/
+/*---------------------ind20 --------div imagen principal------------*/
+/*---------------------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*--------------fin------div imagen uno  ind20--------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*-----------------------  fin >>>>  sec3-----------------------------------------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+/*-----------------seccion 3.1 ------------------------*/
+/*--------------imagen del div uno principal--------------*/
+/*--------------------------------------------------------*/
+/*----------------imagen principal uno-------------------------------------*/
+/*---------------------------------------------------------*/
+
+/*------------------mobil------sec3.1--------------------------------*/
+
+
+
+@media (min-width: 300px)
+{
+   #ind24
+{
+    width: 100%;
+    height: 690px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 10s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+/*------------------mobil2----------sec3.1----------------------------*/
+
+@media (min-width: 420px)
+{
+   #ind24
+{
+    width: 100%;
+    height: 690px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 10s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+
+
+
+
+/*------------------mobil----------sec3.1----------------------------*/
+
+@media (min-width: 580px)
+{
+   #ind24
+{
+    width: 100%;
+    height: 670px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 10s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+/*------------------tablet-----------sec3.1--------------------------*/
+
+@media (min-width: 880px)
+{
+   #ind24
+{
+    width: 100%;
+    height: 660px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 10s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+/*-----------------pc-----sec3.1---------------------------------*/
+
+@media (min-width: 1200px)
+{
+   #ind24
+{
+    width: 100%;
+    height: 660px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 10s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+   
+   
+   
+}
+
+
+
+
+/*--------------fin--sec3.1-------------------------------------*/
+/*---------------------------------------------------------*/
+/*---------------------------------------------------------*/
+
+
+
+
+/*------------------------------sec  4  --------------------*/
+
+
+
+
+/*-------------secion 3---------------------------------------------------*/
+/*--------------------div imagen uno  ind20-----------------------------------*/
+/*----------------------------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*--------------------------------------------------------*/
+/*----------------ind20 div imagen prncipal----------------------*/
+/*---------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------@-@----------@@@@@---------@--@@-------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+#ind27
+{
+    width: 300px;
+    height: 30px;
+    font-size: 30px;
+    color: oldlace;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    animation-name: ejm2;
+    animation-duration: 18s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm2
+{
+ 0%
+    {
+        *background-color: black;
+        opacity: 0.1;
+        color: brown;
+        left: 10px;
+        top: 5px;
+    }
+
+ 25%
+    {
+        *background-color: red;
+        opacity: 0.5;
+        color: cornflowerblue;
+        left: 10px;
+        top: 25px;
+    }
+    
+    
+   50%
+    {
+        *background-color:blue;
+        opacity: 0.2;
+        color: deeppink;
+        left: 12px;
+        top: 35px;
+        
+    }
+    
+
+    75%
+    {
+        *background-color: aqua;
+        opacity: 1;
+        color: darkturquoise;
+        left: -10px;
+        top: 35px;
+        
+        
+    }
+    
+    
+    100%
+    {
+        *background-color: darkseagreen;
+        color: deepskyblue;
+        
+        left: 0px;
+        top: 0px;
+        
+    }
+    
+    
+    
+}
+
+
+/*------@-@----------@@@@@---------@--@@-------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------mobil---sec4-----------------------------------*/
+
+@media (min-width: 300px)
+{
+   
+   #ind28
+   {
+       width: 99%;
+       height: 690px;
+       position: absolute;
+       top: 50px;
+       left: 0px;
+       border:3px solid rgb(223, 26, 213);
+       
+       
+   }
+   
+   
+   
+}
+
+
+
+/*------------------mobil------sec4--------------------------------*/
+
+@media (min-width: 420px)
+{
+   #ind28
+   {
+       width: 99%;
+       height: 690px;
+       position: absolute;
+       top: 80px;
+       left: 0px;
+       border:3px solid rgb(240, 20, 203);
+       
+       
+   }
+   
+   
+   
+}
+
+
+
+
+
+
+/*------------------mobil---------sec4-----------------------------*/
+
+@media (min-width: 580px)
+{
+   
+   #ind28
+   {
+       width: 99%;
+       height: 670px;
+       position: absolute;
+       top: 100px;
+       left:0px;
+       border:3px solid rgb(220, 20, 220);
+       
+       
+   }
+   
+   
+}
+
+
+
+/*------------------tablet-------------sec8------------------------*/
+
+@media (min-width: 880px)
+{
+   
+   #ind28
+   {
+       width: 99%;
+       height: 670px;
+       position: absolute;
+       top: 110px;
+       left: 0px;
+       border:3px solid rgb(241, 21, 241);
+       
+       
+   }
+   
+   
+   
+}
+
+
+/*-----------------pc---------------sec4-----------------------*/
+
+@media (min-width: 1200px)
+{
+   #ind28
+   {
+       width: 99%;
+       height: 660px;
+       position: absolute;
+       top: 120px;
+       left: 0px;
+       border:3px solid rgb(221, 21, 187);
+       
+       
+   }
+   
+   
+   
+}
+
+/*--------------fin--sec4 d20 --------div imagen principal------------*/
+/*---------------------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*--------------fin------div imagen dos  ind20--------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*-----------------------  fin >>>>  sec4-----------------------------------------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+/*-----------------seccion 4.1 ------------------------*/
+/*--------------imagen del div uno principal--------------*/
+/*--------------------------------------------------------*/
+/*----------------imagen principal dos-------------------------------------*/
+/*---------------------------------------------------------*/
+
+/*------------------mobil------sec4.1--------------------------------*/
+
+
+
+@media (min-width: 300px)
+{
+   #ind30
+{
+    width: 100%;
+    height: 690px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 10s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+/*------------------mobil2----------sec4.1----------------------------*/
+
+@media (min-width: 420px)
+{
+   #ind30
+{
+    width: 100%;
+    height: 690px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 10s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+
+
+
+
+/*------------------mobil----------sec4.1----------------------------*/
+
+@media (min-width: 580px)
+{
+   #ind30
+{
+    width: 100%;
+    height: 670px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 10s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+/*------------------tablet-----------sec4.1--------------------------*/
+
+@media (min-width: 880px)
+{
+   #ind30
+{
+    width: 100%;
+    height: 660px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 10s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+/*-----------------pc-----sec4.1---------------------------------*/
+
+@media (min-width: 1200px)
+{
+   #ind30
+{
+    width: 100%;
+    height: 660px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 10s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+   
+   
+   
+}
+
+
+
+
+/*--------------fin--sec4.1-------------------------------------*/
+/*---------------------------------------------------------*/
+/*---------------------------------------------------------*/
+
+/*--------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------mobil---sec4-----------------------------------*/
+
+@media (min-width: 300px)
+{
+   
+   #ava41
+   {
+       width: 99%;
+       height: 690px;
+       position: absolute;
+       top: 50px;
+       left: 0px;
+       border:3px solid rgb(223, 26, 213);
+       
+       
+   }
+   
+   
+   
+}
+
+
+
+/*------------------mobil------sec4--------------------------------*/
+
+@media (min-width: 420px)
+{
+   #ava41
+   {
+       width: 99%;
+       height: 690px;
+       position: absolute;
+       top: 80px;
+       left: 0px;
+       border:3px solid rgb(240, 20, 203);
+       
+       
+   }
+   
+   
+   
+}
+
+
+
+
+
+
+/*------------------mobil---------sec4-----------------------------*/
+
+@media (min-width: 580px)
+{
+   
+   #ava41
+   {
+       width: 99%;
+       height: 670px;
+       position: absolute;
+       top: 100px;
+       left:0px;
+       border:3px solid rgb(220, 20, 220);
+       
+       
+   }
+   
+   
+}
+
+
+
+/*------------------tablet-------------sec8------------------------*/
+
+@media (min-width: 880px)
+{
+   
+   #ava41
+   {
+       width: 99%;
+       height: 670px;
+       position: absolute;
+       top: 110px;
+       left: 0px;
+       border:3px solid rgb(241, 21, 241);
+       
+       
+   }
+   
+   
+   
+}
+
+
+/*-----------------pc---------------sec4-----------------------*/
+
+@media (min-width: 1200px)
+{
+   #ava41
+   {
+       width: 99%;
+       height: 660px;
+       position: absolute;
+       top: 120px;
+       left: 0px;
+       border:3px solid rgb(221, 21, 187);
+       
+       
+   }
+   
+   
+   
+}
+
+/*--------------fin--sec4 d20 --------div imagen principal------------*/
+/*---------------------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*--------------fin------div imagen dos  ind20--------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*-----------------------  fin >>>>  sec4-----------------------------------------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+/*-----------------seccion 4.1 ------------------------*/
+/*--------------imagen del div uno principal--------------*/
+/*--------------------------------------------------------*/
+/*----------------imagen principal dos-------------------------------------*/
+/*---------------------------------------------------------*/
+
+/*------------------mobil------sec4.1--------------------------------*/
+
+
+
+@media (min-width: 300px)
+{
+   #ava43
+{
+    width: 100%;
+    height: 690px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 6s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+/*------------------mobil2----------sec4.1----------------------------*/
+
+@media (min-width: 420px)
+{
+   #ava43
+{
+    width: 100%;
+    height: 690px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 6s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+
+
+
+
+/*------------------mobil----------sec4.1----------------------------*/
+
+@media (min-width: 580px)
+{
+   #ava43
+{
+    width: 100%;
+    height: 670px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 6s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+/*------------------tablet-----------sec4.1--------------------------*/
+
+@media (min-width: 880px)
+{
+   #ava43
+{
+    width: 100%;
+    height: 660px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 6s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+/*-----------------pc-----sec4.1---------------------------------*/
+
+@media (min-width: 1200px)
+{
+   #ava43
+{
+    width: 100%;
+    height: 660px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 6s;
+    animation-name: ejm5;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+   
+   
+   
+}
+
+
+
+
+/*--------------fin--sec5.1-------------------------------------*/
+/*---------------------------------------------------------*/
+/*---------------------------------------------------------*/
+
+/*--------------------------------------------------------*/
+
+
+
+
+
+
+
+
+/*------------------mobil---sec6-----------------------------------*/
+
+@media (min-width: 300px)
+{
+   
+   #ava51
+   {
+       width: 99%;
+       height: 690px;
+       position: absolute;
+       top: 50px;
+       left: 0px;
+       border:3px solid rgb(223, 26, 213);
+       
+       
+   }
+   
+   
+   
+}
+
+
+
+/*------------------mobil------sec4--------------------------------*/
+
+@media (min-width: 420px)
+{
+   #ava51
+   {
+       width: 99%;
+       height: 690px;
+       position: absolute;
+       top: 80px;
+       left: 0px;
+       border:3px solid rgb(240, 20, 203);
+       
+       
+   }
+   
+   
+   
+}
+
+
+
+
+
+
+/*------------------mobil---------sec4-----------------------------*/
+
+@media (min-width: 580px)
+{
+   
+   #ava51
+   {
+       width: 99%;
+       height: 670px;
+       position: absolute;
+       top: 100px;
+       left:0px;
+       border:3px solid rgb(220, 20, 220);
+       
+       
+   }
+   
+   
+}
+
+
+
+/*------------------tablet-------------sec8------------------------*/
+
+@media (min-width: 880px)
+{
+   
+   #ava51
+   {
+       width: 99%;
+       height: 670px;
+       position: absolute;
+       top: 110px;
+       left: 0px;
+       border:3px solid rgb(241, 21, 241);
+       
+       
+   }
+   
+   
+   
+}
+
+
+/*-----------------pc---------------sec4-----------------------*/
+
+@media (min-width: 1200px)
+{
+   #ava51
+   {
+       width: 99%;
+       height: 660px;
+       position: absolute;
+       top: 120px;
+       left: 0px;
+       border:3px solid rgb(221, 21, 187);
+       
+       
+   }
+   
+   
+   
+}
+
+/*--------------fin--sec4 d20 --------div imagen principal------------*/
+/*---------------------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*--------------fin------div imagen dos  ind20--------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*-----------------------  fin >>>>  sec4-----------------------------------------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+/*-----------------seccion 4.1 ------------------------*/
+/*--------------imagen del div uno principal--------------*/
+/*--------------------------------------------------------*/
+/*----------------imagen principal dos-------------------------------------*/
+/*---------------------------------------------------------*/
+
+/*------------------mobil------sec4.1--------------------------------*/
+
+
+
+@media (min-width: 300px)
+{
+   #ava53
+{
+    width: 100%;
+    height: 690px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 20s;
+    animation-name: ejm5;
+    animation-duration: 90s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+/*------------------mobil2----------sec4.1----------------------------*/
+
+@media (min-width: 420px)
+{
+   #ava53
+{
+    width: 100%;
+    height: 690px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 20s;
+    animation-name: ejm5;
+    animation-duration: 90s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+
+
+
+
+/*------------------mobil----------sec4.1----------------------------*/
+
+@media (min-width: 580px)
+{
+   #ava53
+{
+    width: 100%;
+    height: 670px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 20s;
+    animation-name: ejm5;
+    animation-duration: 90s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+/*------------------tablet-----------sec4.1--------------------------*/
+
+@media (min-width: 880px)
+{
+   #ava53
+{
+    width: 100%;
+    height: 660px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 20s;
+    animation-name: ejm5;
+    animation-duration: 90s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+/*-----------------pc-----sec4.1---------------------------------*/
+
+@media (min-width: 1200px)
+{
+   #ava53
+{
+    width: 100%;
+    height: 660px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 20s;
+    animation-name: ejm5;
+    animation-duration: 90s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+   
+   
+   
+}
+
+
+
+
+/*--------------fin--sec6.1-------------------------------------*/
+/*---------------------------------------------------------*/
+/*---------------------------------------------------------*/
+
+/*--------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------mobil---sec7----------------------------------*/
+
+@media (min-width: 300px)
+{
+   
+   #ava61
+   {
+       width: 99%;
+       height: 690px;
+       position: absolute;
+       top: 50px;
+       left: 0px;
+       border:3px solid rgb(223, 26, 213);
+       
+       
+   }
+   
+   
+   
+}
+
+
+
+/*------------------mobil------sec4--------------------------------*/
+
+@media (min-width: 420px)
+{
+   #ava61
+   {
+       width: 99%;
+       height: 690px;
+       position: absolute;
+       top: 80px;
+       left: 0px;
+       border:3px solid rgb(240, 20, 203);
+       
+       
+   }
+   
+   
+   
+}
+
+
+
+
+
+
+/*------------------mobil---------sec4-----------------------------*/
+
+@media (min-width: 580px)
+{
+   
+   #ava61
+   {
+       width: 99%;
+       height: 670px;
+       position: absolute;
+       top: 100px;
+       left:0px;
+       border:3px solid rgb(220, 20, 220);
+       
+       
+   }
+   
+   
+}
+
+
+
+/*------------------tablet-------------sec8------------------------*/
+
+@media (min-width: 880px)
+{
+   
+   #ava61
+   {
+       width: 99%;
+       height: 670px;
+       position: absolute;
+       top: 110px;
+       left: 0px;
+       border:3px solid rgb(241, 21, 241);
+       
+       
+   }
+   
+   
+   
+}
+
+
+/*-----------------pc---------------sec4-----------------------*/
+
+@media (min-width: 1200px)
+{
+   #ava61
+   {
+       width: 99%;
+       height: 660px;
+       position: absolute;
+       top: 120px;
+       left: 0px;
+       border:3px solid rgb(221, 21, 187);
+       
+       
+   }
+   
+   
+   
+}
+
+/*--------------fin--sec4 d20 --------div imagen principal------------*/
+/*---------------------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*--------------fin------div imagen dos  ind20--------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*-----------------------  fin >>>>  sec4-----------------------------------------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+/*-----------------seccion 4.1 ------------------------*/
+/*--------------imagen del div uno principal--------------*/
+/*--------------------------------------------------------*/
+/*----------------imagen principal dos-------------------------------------*/
+/*---------------------------------------------------------*/
+
+/*------------------mobil------sec4.1--------------------------------*/
+
+
+
+@media (min-width: 300px)
+{
+   #ava63
+{
+    width: 100%;
+    height: 690px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 11s;
+    animation-name: ejm5;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+/*------------------mobil2----------sec4.1----------------------------*/
+
+@media (min-width: 420px)
+{
+   #ava63
+{
+    width: 100%;
+    height: 690px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 11s;
+    animation-name: ejm5;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+
+
+
+
+/*------------------mobil----------sec4.1----------------------------*/
+
+@media (min-width: 580px)
+{
+   #ava63
+{
+    width: 100%;
+    height: 670px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 11s;
+    animation-name: ejm5;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+/*------------------tablet-----------sec4.1--------------------------*/
+
+@media (min-width: 880px)
+{
+   #ava63
+{
+    width: 100%;
+    height: 660px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 11s;
+    animation-name: ejm5;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+/*-----------------pc-----sec4.1---------------------------------*/
+
+@media (min-width: 1200px)
+{
+   #ava63
+{
+    width: 100%;
+    height: 660px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 11s;
+    animation-name: ejm5;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+   
+   
+   
+}
+
+
+
+
+/*--------------fin--sec7.1-------------------------------------*/
+/*---------------------------------------------------------*/
+/*---------------------------------------------------------*/
+
+/*--------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------mobil---sec6-----------------------------------*/
+
+@media (min-width: 300px)
+{
+   
+   #ava71
+   {
+       width: 99%;
+       height: 690px;
+       position: absolute;
+       top: 50px;
+       left: 0px;
+       border:3px solid rgb(223, 26, 213);
+       
+       
+   }
+   
+   
+   
+}
+
+
+
+/*------------------mobil------sec4--------------------------------*/
+
+@media (min-width: 420px)
+{
+   #ava71
+   {
+       width: 99%;
+       height: 690px;
+       position: absolute;
+       top: 80px;
+       left: 0px;
+       border:3px solid rgb(240, 20, 203);
+       
+       
+   }
+   
+   
+   
+}
+
+
+
+
+
+
+/*------------------mobil---------sec4-----------------------------*/
+
+@media (min-width: 580px)
+{
+   
+   #ava71
+   {
+       width: 99%;
+       height: 670px;
+       position: absolute;
+       top: 100px;
+       left:0px;
+       border:3px solid rgb(220, 20, 220);
+       
+       
+   }
+   
+   
+}
+
+
+
+/*------------------tablet-------------sec8------------------------*/
+
+@media (min-width: 880px)
+{
+   
+   #ava71
+   {
+       width: 99%;
+       height: 670px;
+       position: absolute;
+       top: 110px;
+       left: 0px;
+       border:3px solid rgb(241, 21, 241);
+       
+       
+   }
+   
+   
+   
+}
+
+
+/*-----------------pc---------------sec4-----------------------*/
+
+@media (min-width: 1200px)
+{
+   #ava71
+   {
+       width: 99%;
+       height: 660px;
+       position: absolute;
+       top: 120px;
+       left: 0px;
+       border:3px solid rgb(221, 21, 187);
+       
+       
+   }
+   
+   
+   
+}
+
+/*--------------fin--sec4 d20 --------div imagen principal------------*/
+/*---------------------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*--------------fin------div imagen dos  ind20--------------------------------------------*/
+/*----------------------------------------------------------------*/
+/*-----------------------  fin >>>>  sec4-----------------------------------------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+/*-----------------seccion 4.1 ------------------------*/
+/*--------------imagen del div uno principal--------------*/
+/*--------------------------------------------------------*/
+/*----------------imagen principal dos-------------------------------------*/
+/*---------------------------------------------------------*/
+
+/*------------------mobil------sec4.1--------------------------------*/
+
+
+
+@media (min-width: 300px)
+{
+   #ava73
+{
+    width: 100%;
+    height: 690px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 2s;
+    animation-name: ejm5;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+/*------------------mobil2----------sec4.1----------------------------*/
+
+@media (min-width: 420px)
+{
+   #ava73
+{
+    width: 100%;
+    height: 690px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 2s;
+    animation-name: ejm5;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+
+
+
+
+/*------------------mobil----------sec4.1----------------------------*/
+
+@media (min-width: 580px)
+{
+   #ava73
+{
+    width: 100%;
+    height: 670px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 2s;
+    animation-name: ejm5;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+/*------------------tablet-----------sec4.1--------------------------*/
+
+@media (min-width: 880px)
+{
+   #ava73
+{
+    width: 100%;
+    height: 660px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 2s;
+    animation-name: ejm5;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+}
+
+/*-------*/
+
+
+/*-----------------pc-----sec4.1---------------------------------*/
+
+@media (min-width: 1200px)
+{
+   #ava73
+{
+    width: 100%;
+    height: 660px;
+    position: absolute;
+    
+    font-size: 30px;
+    color: oldlace;
+
+    left: 0px;
+    top: 0px;
+    animation-delay: 2s;
+    animation-name: ejm5;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm5
+{
+ 0%
+    {
+        
+        opacity: 0.5;
+        
+        
+    
+    }
+
+ 25%
+    {
+       
+        opacity: 0.5;
+   
+    
+     
+    }
+    
+    
+   50%
+    {
+     
+        opacity: 0.3;
+     
+        
+     
+        
+    }
+    
+
+    75%
+    {
+       
+        opacity: 1;
+   
+    
+     
+        
+        
+    }
+    
+    
+    100%
+    {
+     
+        opacity: 0.1;
+     
+        
+      
+ 
+        
+    }
+    
+    
+    
+}
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+   
+   
+   
+}
+
+
+
+
+/*--------------fin--sec8.1-------------------------------------*/
+/*---------------------------------------------------------*/
+/*---------------------------------------------------------*/
+
+/*--------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------*/
+/*----------------body-------------------------------------*/
+/*---------------------------------------------------------*/
+
+/*------------------mobil--------------------------------------*/
+
+@media (min-width: 300px)
+{
+   
+   
+/*------@-@----------@@@@@---------@--@@-------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+#ind35
+{
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    color: oldlace;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    animation-name: ejm2;
+    animation-duration: 18s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm2
+{
+ 0%
+    {
+        *background-color: black;
+        opacity: 0.1;
+        color: brown;
+        left: 10px;
+        top: 5px;
+    }
+
+ 25%
+    {
+        *background-color: red;
+        opacity: 0.5;
+        color: cornflowerblue;
+        left: 10px;
+        top: 25px;
+    }
+    
+    
+   50%
+    {
+        *background-color:blue;
+        opacity: 0.2;
+        color: deeppink;
+        left: 12px;
+        top: 35px;
+        
+    }
+    
+
+    75%
+    {
+        *background-color: aqua;
+        opacity: 1;
+        color: darkturquoise;
+        left: -10px;
+        top: 35px;
+        
+        
+    }
+    
+    
+    100%
+    {
+        *background-color: darkseagreen;
+        color: deepskyblue;
+        
+        left: 0px;
+        top: 0px;
+        
+    }
+    
+    
+    
+}
+
+
+/*------@-@----------@@@@@---------@--@@-------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+
+
+
+   
+   
+   
+}
+
+
+
+/*------------------mobil--------------------------------------*/
+
+@media (min-width: 420px)
+{
+   
+/*------@-@----------@@@@@---------@--@@-------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+#ind35
+{
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    color: oldlace;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    animation-name: ejm2;
+    animation-duration: 18s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm2
+{
+ 0%
+    {
+        *background-color: black;
+        opacity: 0.1;
+        color: brown;
+        left: 10px;
+        top: 5px;
+    }
+
+ 25%
+    {
+        *background-color: red;
+        opacity: 0.5;
+        color: cornflowerblue;
+        left: 10px;
+        top: 25px;
+    }
+    
+    
+   50%
+    {
+        *background-color:blue;
+        opacity: 0.2;
+        color: deeppink;
+        left: 12px;
+        top: 35px;
+        
+    }
+    
+
+    75%
+    {
+        *background-color: aqua;
+        opacity: 1;
+        color: darkturquoise;
+        left: -10px;
+        top: 35px;
+        
+        
+    }
+    
+    
+    100%
+    {
+        *background-color: darkseagreen;
+        color: deepskyblue;
+        
+        left: 0px;
+        top: 0px;
+        
+    }
+    
+    
+    
+}
+
+
+/*------@-@----------@@@@@---------@--@@-------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+
+
+
+   
+   
+   
+}
+
+
+
+
+
+
+/*------------------mobil--------------------------------------*/
+
+@media (min-width: 580px)
+{
+   
+/*------@-@----------@@@@@---------@--@@-------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+#ind35
+{
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    color: oldlace;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    animation-name: ejm2;
+    animation-duration: 18s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm2
+{
+ 0%
+    {
+        *background-color: black;
+        opacity: 0.1;
+        color: brown;
+        left: 10px;
+        top: 5px;
+    }
+
+ 25%
+    {
+        *background-color: red;
+        opacity: 0.5;
+        color: cornflowerblue;
+        left: 10px;
+        top: 25px;
+    }
+    
+    
+   50%
+    {
+        *background-color:blue;
+        opacity: 0.2;
+        color: deeppink;
+        left: 12px;
+        top: 35px;
+        
+    }
+    
+
+    75%
+    {
+        *background-color: aqua;
+        opacity: 1;
+        color: darkturquoise;
+        left: -10px;
+        top: 35px;
+        
+        
+    }
+    
+    
+    100%
+    {
+        *background-color: darkseagreen;
+        color: deepskyblue;
+        
+        left: 0px;
+        top: 0px;
+        
+    }
+    
+    
+    
+}
+
+
+/*------@-@----------@@@@@---------@--@@-------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+
+
+
+   
+   
+   
+}
+
+
+
+/*------------------tablet-------------------------------------*/
+
+@media (min-width: 880px)
+{
+   
+  
+/*------@-@----------@@@@@---------@--@@-------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+#ind35
+{
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    color: oldlace;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    animation-name: ejm2;
+    animation-duration: 18s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm2
+{
+ 0%
+    {
+        *background-color: black;
+        opacity: 0.1;
+        color: brown;
+        left: 10px;
+        top: 5px;
+    }
+
+ 25%
+    {
+        *background-color: red;
+        opacity: 0.5;
+        color: cornflowerblue;
+        left: 10px;
+        top: 25px;
+    }
+    
+    
+   50%
+    {
+        *background-color:blue;
+        opacity: 0.2;
+        color: deeppink;
+        left: 12px;
+        top: 35px;
+        
+    }
+    
+
+    75%
+    {
+        *background-color: aqua;
+        opacity: 1;
+        color: darkturquoise;
+        left: -10px;
+        top: 35px;
+        
+        
+    }
+    
+    
+    100%
+    {
+        *background-color: darkseagreen;
+        color: deepskyblue;
+        
+        left: 0px;
+        top: 0px;
+        
+    }
+    
+    
+    
+}
+
+
+/*------@-@----------@@@@@---------@--@@-------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+
+
+
+   
+   
+   
+}
+
+
+/*-----------------pc--------------------------------------*/
+
+@media (min-width: 1200px)
+{
+   
+   
+/*------@-@----------@@@@@---------@--@@-------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+#ind35
+{
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    color: oldlace;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    animation-name: ejm2;
+    animation-duration: 18s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+@keyframes ejm2
+{
+ 0%
+    {
+        *background-color: black;
+        opacity: 0.1;
+        color: brown;
+        left: 10px;
+        top: 5px;
+    }
+
+ 25%
+    {
+        *background-color: red;
+        opacity: 0.5;
+        color: cornflowerblue;
+        left: 10px;
+        top: 25px;
+    }
+    
+    
+   50%
+    {
+        *background-color:blue;
+        opacity: 0.2;
+        color: deeppink;
+        left: 12px;
+        top: 35px;
+        
+    }
+    
+
+    75%
+    {
+        *background-color: aqua;
+        opacity: 1;
+        color: darkturquoise;
+        left: -10px;
+        top: 35px;
+        
+        
+    }
+    
+    
+    100%
+    {
+        *background-color: darkseagreen;
+        color: deepskyblue;
+        
+        left: 0px;
+        top: 0px;
+        
+    }
+    
+    
+    
+}
+
+
+/*------@-@----------@@@@@---------@--@@-------*/
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+/*------@-@----------@@@@@---------@--@@-------*/
+
+
+
+
+
+   
+   
+}
+
+
+
+
+/*--------------fin--body-------------------------------------*/
+/*---------------------------------------------------------*/
+/*---------------------------------------------------------*/
+
+
+
+
